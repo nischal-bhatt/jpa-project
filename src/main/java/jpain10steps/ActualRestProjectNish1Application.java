@@ -1,0 +1,13 @@
+package jpain10steps;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ActualRestProjectNish1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ActualRestProjectNish1Application.class, args);
+	}
+
+}
